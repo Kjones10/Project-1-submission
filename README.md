@@ -4,7 +4,9 @@ Project 1 - GitHub fundamentals and Elk stack
 
 The files in this repository were used to configure the network depicted below.
 
-Project-1-submission / Diagrams / Project 1 diagram.png
+![Project 1 diagram](https://user-images.githubusercontent.com/80055572/131006943-426a5608-ce61-4099-adc4-2a87a1243e47.png)
+
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook_file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -79,6 +81,9 @@ In 3-5 bullets, explain the steps of the ELK installation play. E.g., install Do
 -enable service docker on boot
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.  
+
+![docker ps](https://user-images.githubusercontent.com/80055572/131006994-75bd973c-02af-4e2d-873c-b2401dc21d1e.png)
+
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
