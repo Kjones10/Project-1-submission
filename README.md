@@ -1,5 +1,4 @@
-# Project-1-submission
-Project 1 - GitHub fundamentals and Elk stack
+
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
